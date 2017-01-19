@@ -1,5 +1,5 @@
-module.exports.translit = require('sergey-utils').translit
-module.exports.brClean  = require('sergey-utils').brClean
+const translit = require('sergey-utils').translit
+const brClean  = require('sergey-utils').brClean
 
 class Statistic {
   constructor(curSlide, sessionStorageItem, statisticName) {
