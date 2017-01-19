@@ -16,7 +16,7 @@
     "url": "https://github.com/SergeyGuns/sergey-statistic/issues"
   },
   "homepage": "https://github.com/SergeyGuns/sergey-statistic#readme",
-  "devDependencies": {
+  "dependencies": {
     "sergey-utils": "0.0.23"
   }
 }
